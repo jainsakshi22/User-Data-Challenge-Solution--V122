@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0510"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "53CF354619C83F2500F81121"
+               BuildableName = "UserDataChallengeSolution-V120-16Sept.app"
+               BlueprintName = "UserDataChallengeSolution-V120-16Sept"
+               ReferencedContainer = "container:UserDataChallengeSolution-V120-16Sept.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "53CF356719C83F2500F81121"
+               BuildableName = "UserDataChallengeSolution-V120-16SeptTests.xctest"
+               BlueprintName = "UserDataChallengeSolution-V120-16SeptTests"
+               ReferencedContainer = "container:UserDataChallengeSolution-V120-16Sept.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "53CF354619C83F2500F81121"
+            BuildableName = "UserDataChallengeSolution-V120-16Sept.app"
+            BlueprintName = "UserDataChallengeSolution-V120-16Sept"
+            ReferencedContainer = "container:UserDataChallengeSolution-V120-16Sept.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "53CF354619C83F2500F81121"
+            BuildableName = "UserDataChallengeSolution-V120-16Sept.app"
+            BlueprintName = "UserDataChallengeSolution-V120-16Sept"
+            ReferencedContainer = "container:UserDataChallengeSolution-V120-16Sept.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "53CF354619C83F2500F81121"
+            BuildableName = "UserDataChallengeSolution-V120-16Sept.app"
+            BlueprintName = "UserDataChallengeSolution-V120-16Sept"
+            ReferencedContainer = "container:UserDataChallengeSolution-V120-16Sept.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
