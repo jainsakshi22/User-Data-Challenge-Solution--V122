@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CCUserData.h"
 
 @interface CCViewController : UIViewController
+
+@property (strong,nonatomic) NSArray *usersArray;
 
 @end
